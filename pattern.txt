@@ -1,0 +1,3220 @@
+ch 17
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 8, ch 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 6, sc 9, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 8, ch 8, sc 1, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 3, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 3, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 3, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 3, ch 1, sc 8, turn, ch 1
+sc 8, ch 3, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, bpsc 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, bpsc 1, sc 2, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 1, ch 8, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 1, ch 8, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 3, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 3, ch 1, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, bpsc 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 9, bpsc 1, sc 2, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 3, ch 1, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 8, ch 5, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 1, ch 8, sc 8, turn, ch 1
+sc 12, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 8, bpsc 1, sc 1, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 1, ch 8, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 1, ch 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 9, ch 2, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 9, ch 6, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 4, ch 5, sc 8, turn, ch 1
+sc 8, ch 1, sc 3, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 3, bpsc 1, ch 1, sc 12, turn, ch 1
+sc 8, ch 7, sc 2, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 1, ch 1, sc 2, ch 5, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 2, sc 3, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 8, ch 5, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 3, bpsc 2, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 5, sc 8, turn, ch 1
+sc 9, ch 2, sc 1, ch 1, sc 4, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 2, ch 1, sc 1, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 5, bpsc 1, sc 3, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 8, ch 5, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 1, bpsc 1, ch 1, sc 1, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 8, turn, ch 1
+sc 8, ch 5, sc 2, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 4, ch 1, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 1, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 12, turn, ch 1
+sc 8, bpsc 1, sc 3, ch 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 3, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 8, ch 3, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 2, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 1, sc 3, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 2, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 1, ch 1, sc 1, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 3, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 3, bpsc 3, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 9, ch 3, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, bpsc 1, sc 3, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 1, ch 1, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 5, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 3, bpsc 1, sc 9, turn, ch 1
+sc 8, ch 1, sc 1, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, bpsc 1, sc 5, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 1, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 3, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 9, ch 2, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 3, bpsc 1, sc 4, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 1, ch 1, sc 2, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 9, ch 2, sc 1, bpsc 2, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 3, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 3, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 2, bpsc 2, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 2, bpsc 1, sc 9, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 3, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 2, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 2, bpsc 1, sc 1, bpsc 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 1, ch 1, sc 3, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 3, bpsc 2, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, sc 1, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 3, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 9, bpsc 1, sc 4, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 2, ch 1, sc 1, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 8, bpsc 1, sc 3, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 1, ch 1, sc 1, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 1, ch 1, sc 1, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, ch 2, sc 2, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, bpsc 1, sc 4, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 2, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 9, ch 2, sc 1, bpsc 2, sc 3, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, ch 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 3, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, bpsc 1, sc 3, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 5, sc 2, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 9, bpsc 1, sc 2, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 1, ch 1, sc 3, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 8, ch 5, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, ch 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 8, ch 3, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 3, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 8, bpsc 1, sc 1, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 2, ch 3, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 2, sc 7, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, ch 2, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, ch 7, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 2, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 1, sc 11, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 11, ch 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 4, bpsc 1, sc 9, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 1, sc 1, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, bpsc 1, sc 1, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 3, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 1, ch 1, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 7, bpsc 1, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 2, bpsc 1, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 11, ch 1, sc 5, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 2, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 4, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 2, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 11, ch 1, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 7, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 3, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 1, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 8, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 1, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 2, ch 2, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 1, ch 1, sc 3, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 2, bpsc 2, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 11, ch 1, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 1, sc 11, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, ch 2, sc 2, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 9, bpsc 1, sc 2, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 3, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 2, bpsc 1, sc 3, bpsc 1, sc 8, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 3, sc 2, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 11, ch 1, sc 5, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 4, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 12, bpsc 3, sc 2, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 8, ch 4, sc 3, ch 1, sc 1, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 1, bpsc 1, sc 3, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 1, ch 1, sc 3, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 2, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 1, bpsc 1, sc 4, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 8, bpsc 1, sc 3, bpsc 3, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 2, sc 12, turn, ch 1
+sc 13, bpsc 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 2, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, ch 4, sc 8, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 13, ch 2, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 3, bpsc 1, sc 2, bpsc 1, sc 10, turn, ch 1
+sc 10, bpsc 1, sc 1, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 3, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 1, sc 11, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 14, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 1, bpsc 1, sc 12, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 6, bpsc 1, sc 1, bpsc 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 1, sc 11, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 12, bpsc 1, sc 4, turn, ch 1
+sc 4, bpsc 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 3, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 14, ch 1, sc 2, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 4, bpsc 1, sc 12, turn, ch 1
+sc 13, ch 1, sc 3, turn, ch 1
+sc 3, ch 1, sc 13, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 2, ch 3, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 3, bpsc 1, sc 2, ch 2, sc 9, turn, ch 1
+sc 13, bpsc 1, sc 3, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 14, bpsc 1, sc 2, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 12, ch 3, sc 2, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 9, ch 2, sc 6, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 2, ch 1, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 5, ch 4, sc 8, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 4, sc 5, turn, ch 1
+sc 17, turn, ch 1
+sc 9, bpsc 1, sc 2, bpsc 2, sc 3, turn, ch 1
+sc 6, ch 2, sc 9, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 1, sc 2, ch 4, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, ch 3, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 1, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 3, bpsc 1, sc 13, turn, ch 1
+sc 9, ch 3, sc 5, turn, ch 1
+sc 2, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 17, turn, ch 1
+sc 6, bpsc 1, sc 10, turn, ch 1
+sc 17, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 17, turn, ch 1
+sc 17, turn, ch 1
+sc 8, ch 5, bpsc 2, sc 2, turn, ch 1
+sc 4, ch 1, sc 12, turn, ch 1
+sc 8, ch 5, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 3, bpsc 1, ch 1, sc 12, turn, ch 1
+sc 9, ch 4, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 3, ch 1, sc 8, turn, ch 1
+sc 8, ch 3, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 1, ch 2, sc 9, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 3, bpsc 1, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 3, bpsc 1, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, sc 1, bpsc 1, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 2, bpsc 1, sc 9, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 8, ch 5, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 8, ch 3, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 1, ch 3, sc 8, turn, ch 1
+sc 12, ch 1, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 10, bpsc 1, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 1, ch 1, bpsc 2, ch 5, sc 8, turn, ch 1
+sc 9, ch 2, sc 1, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 11, ch 2, bpsc 1, sc 3, turn, ch 1
+sc 2, bpsc 1, sc 1, ch 1, sc 1, bpsc 1, sc 10, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 2, bpsc 2, ch 1, sc 12, turn, ch 1
+sc 12, ch 1, bpsc 2, sc 2, turn, ch 1
+sc 3, bpsc 1, ch 2, sc 11, turn, ch 1
+sc 12, ch 1, sc 1, bpsc 1, sc 2
+
